@@ -1,6 +1,6 @@
 <?php
-include '/home/aswill/Desktop/mysqlq.php';
-include '/home/aswill/Desktop/modWindow.php';
+include 'mysqlq.php';
+include 'modWindow.php';
 
 /*
 

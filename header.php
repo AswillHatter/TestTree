@@ -5,8 +5,8 @@ echo
 <html>
 <head>
   <meta charset=\"UTF-8\">
- <title>Ветеринарная клиника</title>
- <link rel='stylesheet' href='./style.css'>
+ <title>Tree on php</title>
+ <link rel='stylesheet' href='style.css'>
 </head>
 <body>     
 ";

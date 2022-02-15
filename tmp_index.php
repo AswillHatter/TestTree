@@ -3,8 +3,8 @@
 //include '/home/aswill/Desktop/mysqlq.php';
 
 
-include '/home/aswill/Desktop/header.php';
-include '/home/aswill/Desktop/tree.php';
+include 'header.php';
+include 'tree.php';
 
 
 echo "It\'s work. Finally<p>";
